@@ -1,6 +1,8 @@
-# Hobbitcraft Files
+# Hobbitcraft Files (out of date)
 This is the official place for all hobbitcraft files! Most small things will be published as releases here on the github, but some things are a bit too big to fit here so im going to be providing external links to download them.
 
+# This is now out of date, please use https://hobbitcraft.cc/files for getting world downloads.
+<hr>
 ## Creative World Downloads
 
 The download for the Creative Season 1 world is [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/tag/HC-Creative) 
